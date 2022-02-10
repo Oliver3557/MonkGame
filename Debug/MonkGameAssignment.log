@@ -1,0 +1,44 @@
+﻿  GameCui.cpp
+  LootRoom.cpp
+  Main.cpp
+  Monk.cpp
+  Monster.cpp
+  MonsterRoom.cpp
+  numberGenerator.cpp
+  Observer.cpp
+  pch.cpp
+  PrayRoom.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+MonsterRoom.obj : warning LNK4006: "public: __thiscall Observer::Observer(void)" (??0Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "public: __thiscall Observer::~Observer(void)" (??1Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "public: int __thiscall Observer::GenerateRoom(void)" (?GenerateRoom@Observer@@QAEHXZ) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class numberGenerator numbGen" (?numbGen@@3VnumberGenerator@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class Observer observer" (?observer@@3VObserver@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class Monk monk" (?monk@@3VMonk@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class Monster monster" (?monster@@3VMonster@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class PrayRoom prayRoom" (?prayRoom@@3VPrayRoom@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class MonsterRoom monsterRoom" (?monsterRoom@@3VMonsterRoom@@A) already defined in LootRoom.obj; second definition ignored
+MonsterRoom.obj : warning LNK4006: "class LootRoom lootRoom" (?lootRoom@@3VLootRoom@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "public: __thiscall Observer::Observer(void)" (??0Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "public: __thiscall Observer::~Observer(void)" (??1Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "public: int __thiscall Observer::GenerateRoom(void)" (?GenerateRoom@Observer@@QAEHXZ) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class numberGenerator numbGen" (?numbGen@@3VnumberGenerator@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class Observer observer" (?observer@@3VObserver@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class Monk monk" (?monk@@3VMonk@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class Monster monster" (?monster@@3VMonster@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class PrayRoom prayRoom" (?prayRoom@@3VPrayRoom@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class MonsterRoom monsterRoom" (?monsterRoom@@3VMonsterRoom@@A) already defined in LootRoom.obj; second definition ignored
+Observer.obj : warning LNK4006: "class LootRoom lootRoom" (?lootRoom@@3VLootRoom@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "public: __thiscall Observer::Observer(void)" (??0Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "public: __thiscall Observer::~Observer(void)" (??1Observer@@QAE@XZ) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "public: int __thiscall Observer::GenerateRoom(void)" (?GenerateRoom@Observer@@QAEHXZ) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class numberGenerator numbGen" (?numbGen@@3VnumberGenerator@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class Observer observer" (?observer@@3VObserver@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class Monk monk" (?monk@@3VMonk@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class Monster monster" (?monster@@3VMonster@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class PrayRoom prayRoom" (?prayRoom@@3VPrayRoom@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class MonsterRoom monsterRoom" (?monsterRoom@@3VMonsterRoom@@A) already defined in LootRoom.obj; second definition ignored
+PrayRoom.obj : warning LNK4006: "class LootRoom lootRoom" (?lootRoom@@3VLootRoom@@A) already defined in LootRoom.obj; second definition ignored
+E:\Year 2\U1964368 Monk Game Assignment (1)\U1964368 Monk Game Assignment\MonkGameAssignment - WORKING\MonkGameAssignment - WORKING\MonkGameAssignment\Debug\MonkGameAssignment.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  MonkGameAssignment.vcxproj -> E:\Year 2\U1964368 Monk Game Assignment (1)\U1964368 Monk Game Assignment\MonkGameAssignment - WORKING\MonkGameAssignment - WORKING\MonkGameAssignment\Debug\MonkGameAssignment.exe
